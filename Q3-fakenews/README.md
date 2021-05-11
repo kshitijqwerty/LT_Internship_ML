@@ -1,2 +1,2 @@
-Used Decision Tree Classifier\ 
+Used Decision Tree Classifier\
 Accuracy - 99.73%
